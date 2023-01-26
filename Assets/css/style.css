@@ -47,6 +47,7 @@ background: linear-gradient(to #FF216C, blue 0%, #FF216C 100%);
 input {
   border-radius: 5px;
   border:none;
+  width:100px;
 }
 footer {
   text-align: center;
