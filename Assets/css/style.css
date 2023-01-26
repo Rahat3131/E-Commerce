@@ -46,6 +46,7 @@ background: #ff136f;
 }
 input {
   border-radius: 5px;
+  border:none;
 }
 footer {
   text-align: center;
