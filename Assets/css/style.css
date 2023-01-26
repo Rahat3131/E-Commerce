@@ -28,13 +28,13 @@
   color: white;
 }
 .category-1 {
-  background: orange;
+  background: linear-gradient(to Right, orange 0%, orange 100%);
 }
 .category-2{
-background: blue;
+background: linear-gradient(to Right, blue 0%, blue 100%);
 }
 .category-3{
-background: #ff136f;
+background: linear-gradient(to #FF216C, blue 0%, #FF216C 100%);
 }
 .card {
   border: none;
